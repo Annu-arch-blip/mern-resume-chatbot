@@ -1,4 +1,4 @@
-# AI Career Assistant
+# AI Resume Helper
 
 A full-stack MERN application that provides conversational AI career help across three modes: Resume Improvement, Job Matching, and Interview Prep. Users must register/log in (JWT-based auth) before chatting. Each conversation thread is stored privately in MongoDB, separated by user and mode. Runs on a free, local LLM via **Ollama** — no paid API key required.
 
